@@ -1,1 +1,3 @@
 # Solving-Regression-problem-using-TSK-fuzzy-models
+
+The goal of the work is to investigate the ability of TSK models in modeling multi-variable, nonlinear functions. Specifically, two datasets have been selected with the aim of evaluating the target variable from available data using uncertain neural models. The first dataset has been used for a simple evaluation of the modeling and evaluation process, as well as for a preliminary analysis and interpretation of the results. The second, more complex dataset, has been used for a more comprehensive modeling process, which includes other preprocessing techniques such as feature selection and cross-validation for optimizing the models.
